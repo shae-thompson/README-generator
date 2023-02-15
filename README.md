@@ -4,9 +4,9 @@
   
   ## Description
 
-  To create an application that can generate README files for future projects. 
-
-  ## Table of Contents
+  To create an application that can generate README files for future projects. Link to repo https://github.com/shae-thompson/README-generator. Link to Google Drive video https://drive.google.com/file/d/1wEZz0Ky83dk5dibMaf7yJOpLFoRPwxMx/view.
+  
+  ## Table of Contents 
 
   * [Installation](#installation)
 
